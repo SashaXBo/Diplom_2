@@ -1,0 +1,10 @@
+/Users/a.boroukhin/Project/Diplom_2/src/test/java/ru/practicum/stellar/client/OrderClient.java
+/Users/a.boroukhin/Project/Diplom_2/src/test/java/ru/practicum/stellar/tests/CreateOrderTest.java
+/Users/a.boroukhin/Project/Diplom_2/src/test/java/ru/practicum/stellar/tests/UserCreatingTest.java
+/Users/a.boroukhin/Project/Diplom_2/src/test/java/ru/practicum/stellar/model/OrderRequest.java
+/Users/a.boroukhin/Project/Diplom_2/src/test/java/ru/practicum/stellar/tests/LoginUserTest.java
+/Users/a.boroukhin/Project/Diplom_2/src/test/java/ru/practicum/stellar/tests/GetOrdersTest.java
+/Users/a.boroukhin/Project/Diplom_2/src/test/java/ru/practicum/stellar/utils/TestDataGenerator.java
+/Users/a.boroukhin/Project/Diplom_2/src/test/java/ru/practicum/stellar/model/User.java
+/Users/a.boroukhin/Project/Diplom_2/src/test/java/ru/practicum/stellar/tests/ChangeUserTest.java
+/Users/a.boroukhin/Project/Diplom_2/src/test/java/ru/practicum/stellar/client/UserClient.java

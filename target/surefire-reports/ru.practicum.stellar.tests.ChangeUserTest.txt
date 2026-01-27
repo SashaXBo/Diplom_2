@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.practicum.stellar.tests.ChangeUserTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.804 s - in ru.practicum.stellar.tests.ChangeUserTest
