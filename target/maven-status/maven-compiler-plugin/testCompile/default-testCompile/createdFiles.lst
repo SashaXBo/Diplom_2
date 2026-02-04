@@ -1,0 +1,10 @@
+ru/practicum/stellar/tests/CreateOrderTest.class
+ru/practicum/stellar/tests/ChangeUserTest.class
+ru/practicum/stellar/tests/LoginUserTest.class
+ru/practicum/stellar/model/OrderRequest.class
+ru/practicum/stellar/tests/UserCreatingTest.class
+ru/practicum/stellar/tests/GetOrdersTest.class
+ru/practicum/stellar/utils/TestDataGenerator.class
+ru/practicum/stellar/client/UserClient.class
+ru/practicum/stellar/client/OrderClient.class
+ru/practicum/stellar/model/User.class
