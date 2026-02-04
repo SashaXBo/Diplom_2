@@ -25,7 +25,7 @@ public class LoginUserTest {
         testPassword = TestDataGenerator.generatePassword();
         testName = TestDataGenerator.generateName();
 
-        Response createResponse = UserClient.createUser(testEmail, testPassword, testName);
+        Response createResponse = (Response) UserClient.createUser(testEmail, testPassword, testName);
         createResponse.then().statusCode(200);
         userToken = createResponse.jsonPath().getString("accessToken");
     }
